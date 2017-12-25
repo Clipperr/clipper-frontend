@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebSocketExample</string>
+    <string name="title_activity_user_maps">Map</string>
+    <string name="gps_network_not_enabled">GPS Not Enabled</string>
+</resources>
